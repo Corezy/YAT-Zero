@@ -1,2 +1,2 @@
 # YAT-Zero
-Yet Another Tri (YAT) Zero 3D printer variant
+Yet Another Tri-Zero (YAT0) 3D printer variant
