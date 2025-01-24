@@ -15,6 +15,8 @@ With all the excellent triple-belted z-gantry ant farm printers available, I cou
 
 This build contains a mix of parts from many different printers and some custom or remixed parts. Please see the long list of parts that either used 1:1, were repurposed, or were remixed. Thank you to all who created the originals.
 
+**NOTE: This is a work in progress and still needs some work.  Know CAD and want to contribute? Contact me on the [Doomcube Discord](https://discord.gg/vXzRSne2).
+
 <img width="616" alt="2025-01-23_22-40-20" src="https://github.com/user-attachments/assets/39c982f4-fc49-42eb-b6e5-a966e2b7beb3" />
 
 **Additional Parts:**
@@ -27,7 +29,7 @@ This build contains a mix of parts from many different printers and some custom 
 * Papilio Lite Parts (HGX v1.x geared version) for AntHead Papilio Lite Mod
 
 **Parts copied or remixed from:**
-* Voron V0.2r1
+* [Voron V0.2r1](https://github.com/VoronDesign/Voron-0)
    * 1:1 Parts:
      * AB Drive Assembly
      * Mini LCD Display Housing
@@ -38,38 +40,43 @@ This build contains a mix of parts from many different printers and some custom 
     * Skirt
     * 200mm 1515 Extrusion (Bed Mount)
     * 100mm 1515 Cut to 90mm (Bed Mount)
-* Tri-Zero
+* [Tri-Zero](https://github.com/zruncho3d/tri-zero/tree/main)
   * 1:1 Parts:
     * Center bed brace with Wagos mounts
-* Pandora's Box:
+* [Pandora's Box](https://github.com/MasturMynd/Pandoras_Box)
   * 1:1 Parts:
     * Rear stepper motor mount
   * Remixed:
     * Rear Z-bed mount
     * Bed Mounts
     * Rear Z-Gantry mounts
-* Hex-Zero
+* [Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
   * 1:1 Parts:
     * Front Z Gantry rail mounts
   * Remixed:
     * Front Z Bed Mounts
-* Vampire Bat X-Gantry
+* [Vampire Bat X-Gantry](https://github.com/zruncho3d/vampire_bat)
   * 1:1 Parts:
     * XY Mounts
-* AntHead 
+* [AntHead](https://github.com/PrintersForAnts/AntHead)
   * 1:1 Parts:
     * Ducts
     * Hotend Mount
   * Remixed:
     * Extruder Mount
     * Mainbody / Cowl
-* DragonBurner
+* [Papilio Lite Belt Extruder](https://github.com/kevinakasam/Papilio-Belt-Extruder)
+  * 1:1 Parts:
+    * Gears & Hardware
+  * Remixed Parts:
+    * Extruder Body 
+* [DragonBurner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner)
   * 1:1 Parts
     * Neopixel logo mount
-* Micron/SaladFork:
+* [Micron](https://github.com/PrintersForAnts/Micron)
   * Remixed Parts:
     * Front rail mounted X-Toolhead Mount
-* HBO Tri-Zero - Pivot Bed Mount
+* [HBO Tri-Zero - Pivot Bed Mount](https://github.com/harry-boe/tri-zero/tree/main/Mods/hbo/IGUS_03_Mount)
   * No direct or remixed parts were used, but was the inspiration for my bed mount
 
 <img width="616" alt="2025-01-23_22-48-27" src="https://github.com/user-attachments/assets/c838bf3b-379e-4b4b-b015-8f4ef6f77fb7" />
