@@ -4,13 +4,12 @@
 With all the excellent triple-belted z-gantry ant farm printers available, I couldn't decide which one I wanted to use on my V0 because each had features I wanted, but none had all, so I set out to model yet another tri-zero build. thus the name YAT-Zero (YAT0).
 
 **Features adapted from other builds:**
-* Single rear Z extrusion linear rail and stepper mount
-* Dual front Z linear rails & stepper mounts
+* Single rear Z extrusion & linear rail
 * KGLM bearings for bed
 * Extrusionless X-gantry
 * Wagos bed mount
-* AntHead tool head
-* Papilio Lite Extruder
+* Modified AntHead tool head specific for the modified Papilio Lite extruder
+* Modified Papilio Lite Extruder integrated into the modified AntHead tool head
 * V0.2 styled skirt
 
 This build contains a mix of parts from many different printers and some custom or remixed parts. Please see the long list of parts that either used 1:1, were repurposed, or were remixed. Thank you to all who created the originals.
