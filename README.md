@@ -61,6 +61,7 @@ This build contains a mix of parts from many different printers and some custom 
 * [Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
   * 1:1 Parts:
     * Front Z Gantry rail mounts
+    * Front Z Idlers
   * Remixed:
     * Front Z Bed Mounts
 * [Vampire Bat X-Gantry](https://github.com/zruncho3d/vampire_bat)
