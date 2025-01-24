@@ -1,5 +1,5 @@
 # YAT-Zero
-**YAT-Zero (Yet Another Tri Zero) printer variant**
+**YAT-Zero (Yet Another Tri Zero - YAT0) printer variant**
 
 With all the excellent triple-belted z-gantry ant farm printers available, I couldn't decide which one I wanted to use on my V0 because each had features I wanted, but none had all, so I set out to model yet another tri-zero build. thus the name YAT-Zero (YAT0).
 
