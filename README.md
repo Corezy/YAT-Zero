@@ -15,7 +15,15 @@ With all the excellent triple-belted z-gantry ant farm printers available, I cou
 
 This build contains a mix of parts from many different printers and some custom or remixed parts. Please see the long list of parts that either used 1:1, were repurposed, or were remixed. Thank you to all who created the originals.
 
-**NOTE: This is a work in progress and still needs some work.  Know CAD and want to contribute? Contact me on the [Doomcube Discord](https://discord.gg/vXzRSne2).
+**NOTE: This is a work in progress and still needs some work.**  Know CAD and want to contribute? Contact me on the [Doomcube Discord](https://discord.gg/vXzRSne2).
+
+**To Do:**
+* Z Drag Chain Mount(s)
+* Z Endstop solution or changes
+* Finalize Anthead Papilio Lite mod
+* Upload CAD
+* Upload Ommited STLs
+* Documentation / Manual
 
 <img width="616" alt="2025-01-23_22-40-20" src="https://github.com/user-attachments/assets/39c982f4-fc49-42eb-b6e5-a966e2b7beb3" />
 
