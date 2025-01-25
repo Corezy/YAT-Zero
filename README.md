@@ -1,16 +1,6 @@
-# YAT-Zero
-**YAT-Zero (<ins>Y</ins>et <ins>A</ins>nother <ins>T</ins>ri Zero - YAT0) printer variant**
+<img width="915" alt="2025-01-25_02-01-42" src="https://github.com/user-attachments/assets/0aee6a24-98ed-4ce0-ac2d-8d148171a7cb" />
 
 With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dprintersforants.com) available, I couldn't decide which one I wanted to use on my V0 because each had features I wanted, but none had all, so I set out to model yet another tri-zero build. thus the name YAT-Zero (YAT0).
-
-**Features adapted from other builds:**
-* Single rear Z extrusion & linear rail
-* KGLM bearings for bed
-* Extrusionless X-gantry
-* Wagos bed mount
-* Modified AntHead tool head specific for the modified Papilio Lite extruder
-* Modified Papilio Lite Extruder integrated into the modified AntHead tool head
-* V0.2 styled skirt
 
 This build contains a mix of parts from many different printers and some custom or remixed parts. Please see the long list of parts that either used 1:1, were repurposed, or were remixed. Thank you to all who created the originals.
 
