@@ -61,6 +61,7 @@ This build contains a mix of parts from many different printers and some custom 
   * 1:1 Parts:
     * Front Z Gantry rail mounts
     * Front Z Idlers
+    * DIN Rail
   * Remixed:
     * Front Z Bed Mounts
     * Front Z Motor Mounts
