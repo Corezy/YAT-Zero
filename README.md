@@ -24,7 +24,7 @@ This build contains a mix of parts from many different printers and some custom 
 * Upload Ommited STLs
 * Documentation / Manual
 
-<img width="616" alt="2025-01-23_22-40-20" src="https://github.com/user-attachments/assets/39c982f4-fc49-42eb-b6e5-a966e2b7beb3" />
+<img width="667" alt="2025-01-25_00-33-17" src="https://github.com/user-attachments/assets/d428b80c-77cf-4edd-b5f0-10e7e4282dc3" />
 
 **Additional Parts:**
 * MGN9H (or MGN9C) Linear Rail Z1 Preload (200mm)
@@ -94,3 +94,6 @@ This build contains a mix of parts from many different printers and some custom 
 <img width="616" alt="2025-01-23_22-46-33" src="https://github.com/user-attachments/assets/609f57d5-611a-4361-94c7-4ef5f4c96033" />
 
 <img width="616" alt="2025-01-23_22-49-08" src="https://github.com/user-attachments/assets/f4203730-619e-4203-b990-87d1aa180aaa" />
+
+<img width="616" alt="2025-01-23_22-40-20" src="https://github.com/user-attachments/assets/39c982f4-fc49-42eb-b6e5-a966e2b7beb3" />
+
