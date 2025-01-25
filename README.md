@@ -63,6 +63,7 @@ This build contains a mix of parts from many different printers and some custom 
     * Front Z Idlers
   * Remixed:
     * Front Z Bed Mounts
+    * Front Z Motor Mounts
 * [Vampire Bat X-Gantry](https://github.com/zruncho3d/vampire_bat)
   * 1:1 Parts:
     * XY Mounts
