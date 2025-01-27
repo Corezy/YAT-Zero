@@ -7,7 +7,6 @@ This build contains a mix of parts from many different printers and some custom 
 NOTE: This is a work in progress and still needs some work.**  Know CAD and want to contribute? Contact me on the [Doomcube Discord](https://discord.gg/vXzRSne2).
 
 **To Do:**
-* Z Drag Chain Mount(s)
 * Z Endstop solution or changes
 * Finalize Anthead Papilio Lite mod
 * Upload CAD
