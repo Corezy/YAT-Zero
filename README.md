@@ -28,7 +28,6 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 ## **Parts copied or remixed from:**
 * [Voron V0.2r1](https://github.com/VoronDesign/Voron-0)
    * 1:1 Parts:
-     * AB Drive Assembly
      * Mini LCD Display Housing
      * Skirt Accents
      * Frame & Top Hat (did repurpose some extrusions)
@@ -55,6 +54,7 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
   * Remixed:
     * Front Z Bed Mounts
     * Front Z Motor Mounts
+    * AB Drive Assembly
 * [Vampire Bat X-Gantry](https://github.com/zruncho3d/vampire_bat)
   * 1:1 Parts:
     * XY Mounts
