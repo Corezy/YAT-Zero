@@ -10,8 +10,8 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 * Z Endstop solution or changes
 * Finalize Anthead Papilio Lite mod
 * Upload CAD
-* Upload Ommited STLs
-* Documentation / Manual
+* Upload Omitted STLs
+* Documentation / Manual 
 
 <img width="667" alt="2025-01-25_00-33-17" src="https://github.com/user-attachments/assets/d428b80c-77cf-4edd-b5f0-10e7e4282dc3" />
 
