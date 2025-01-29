@@ -1,4 +1,5 @@
-<img width="1024" alt="2025-01-26_22-20-05" src="https://github.com/user-attachments/assets/ebe10a11-5af4-43e8-a75b-e8fbacd28e6d" />
+
+<img width="1024" alt="2025-01-26_22-20-05" src="https://github.com/user-attachments/assets/a6dbc479-53c7-41be-aed1-b6c7f9401187" />
 
 With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dprintersforants.com) available, I couldn't decide which one I wanted to use on my V0 because each had features I wanted, but none had all, so I set out to model yet another tri-zero build. thus the name YAT-Zero (YAT0).
 
@@ -26,6 +27,23 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 
 
 ## **Parts copied or remixed from:**
+* [Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
+  * 1:1 Parts:
+    * Front Z Gantry rail mounts
+    * Front Z Idlers
+    * DIN Rail
+    * AB Drive Assembly
+  * Remixed:
+    * Front Z Bed Mounts
+    * Front Z Motor Mounts
+    * Stingray bed brace
+* [Pandora's Box](https://github.com/MasturMynd/Pandoras_Box)
+  * 1:1 Parts:
+    * Rear stepper motor mount
+  * Remixed:
+    * Rear Z-bed mount
+    * Bed Mounts
+    * Rear Z-Gantry mounts
 * [Voron V0.2r1](https://github.com/VoronDesign/Voron-0)
    * 1:1 Parts:
      * Mini LCD Display Housing
@@ -35,29 +53,7 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
   * Remixed / Repurposed:
     * Skirt
     * 200mm 1515 Extrusion (Bed Mount)
-    * 100mm 1515 Cut to 90mm (Bed Mount)
-* [Tri-Zero](https://github.com/zruncho3d/tri-zero/tree/main)
-  * 1:1 Parts:
-    * Center bed brace with Wagos mounts
-* [Pandora's Box](https://github.com/MasturMynd/Pandoras_Box)
-  * 1:1 Parts:
-    * Rear stepper motor mount
-  * Remixed:
-    * Rear Z-bed mount
-    * Bed Mounts
-    * Rear Z-Gantry mounts
-* [Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
-  * 1:1 Parts:
-    * Front Z Gantry rail mounts
-    * Front Z Idlers
-    * DIN Rail
-  * Remixed:
-    * Front Z Bed Mounts
-    * Front Z Motor Mounts
-    * AB Drive Assembly
-* [Vampire Bat X-Gantry](https://github.com/zruncho3d/vampire_bat)
-  * 1:1 Parts:
-    * XY Mounts
+    * 100mm 1515 Cut to 90mm (Bed Mount
 * [AntHead](https://github.com/PrintersForAnts/AntHead)
   * 1:1 Parts:
     * Ducts
