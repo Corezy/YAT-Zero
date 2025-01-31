@@ -13,9 +13,9 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 * Finalize Anthead Papilio Lite mod
 * Upload CAD
 * Upload Omitted STLs
-* Documentation / Manual 
+* Documentation / Manual
 
-![2025-01-30_22-26-13](https://github.com/user-attachments/assets/22c02039-7fe2-41ea-9394-77a2cefda631)
+<img width="1024" alt="2025-01-31_17-04-26" src="https://github.com/user-attachments/assets/320450d2-47eb-4ad2-b2ba-ff06525c2a06" />
 
 **Additional Parts:**
 * MGN9H (or MGN9C) Linear Rail Z1 Preload (200mm)
