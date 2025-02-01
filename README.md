@@ -26,6 +26,8 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 **Optional Parts:**
 * Papilio Lite Parts (HGX v1.x geared version) for AntHead Papilio Lite Mod
 
+<img width="450" alt="2025-01-31_23-38-28" src="https://github.com/user-attachments/assets/075b3778-969e-45fc-8191-8ace0a400f72" />
+<img width="450" alt="2025-01-31_23-39-31" src="https://github.com/user-attachments/assets/20593b6c-135c-4901-998b-e6f2ad885e4d" />
 
 ## **Parts copied or remixed from:**
 * [Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
