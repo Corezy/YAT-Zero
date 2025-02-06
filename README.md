@@ -1,5 +1,6 @@
 
-<img width="1024" alt="2025-01-26_22-20-05" src="https://github.com/user-attachments/assets/a6dbc479-53c7-41be-aed1-b6c7f9401187" />
+<img width="1351" alt="2025-02-01_00-45-13" src="https://github.com/user-attachments/assets/68270d2b-c620-4cbf-8ce6-77da0667668e" />
+
 
 With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dprintersforants.com) available, I couldn't decide which one I wanted to use on my V0 because each had features I wanted, but none had all, so I set out to model yet another tri-zero build. thus the name YAT-Zero (YAT0).
 
@@ -12,9 +13,9 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 * Finalize Anthead Papilio Lite mod
 * Upload CAD
 * Upload Omitted STLs
-* Documentation / Manual 
+* Documentation / Manual
 
-![2025-01-25_14-51-42](https://github.com/user-attachments/assets/b8b75bfb-2b0f-4901-a4e4-53fd436a7f58)
+<img width="1024" alt="2025-01-31_17-04-26" src="https://github.com/user-attachments/assets/320450d2-47eb-4ad2-b2ba-ff06525c2a06" />
 
 **Additional Parts:**
 * MGN9H (or MGN9C) Linear Rail Z1 Preload (200mm)
@@ -25,6 +26,8 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 **Optional Parts:**
 * Papilio Lite Parts (HGX v1.x geared version) for AntHead Papilio Lite Mod
 
+<img width="450" alt="2025-01-31_23-38-28" src="https://github.com/user-attachments/assets/075b3778-969e-45fc-8191-8ace0a400f72" />
+<img width="450" alt="2025-01-31_23-39-31" src="https://github.com/user-attachments/assets/20593b6c-135c-4901-998b-e6f2ad885e4d" />
 
 ## **Parts copied or remixed from:**
 * [Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
