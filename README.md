@@ -30,30 +30,26 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 <img width="450" alt="2025-02-08_20-34-37" src="https://github.com/user-attachments/assets/3383c945-c441-4a6a-ac7c-55bf05be79e8" />
 
 ## **Parts copied or remixed from:**
-* [Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
-  * 1:1 Parts:
-    * Front Z Gantry rail mounts
-    * Front Z Idlers
-    * DIN Rail
-    * AB Drive Assembly
-  * Remixed:
-    * Front Z Bed Mounts
-    * Front Z Motor Mounts
-    * Stingray bed brace
+
 * [Pandora's Box](https://github.com/MasturMynd/Pandoras_Box)
   * 1:1 Parts:
     * Rear stepper motor mount
   * Remixed:
+    * AB Drive Assembly
     * Rear Z-bed mount
-    * Bed Mounts
     * Rear Z-Gantry mounts
+* [Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
+  * Remixed:
+    * Front Z Bed Mounts
+    * Front Z Motor Mounts
+    * Stingray bed brace
 * [Voron V0.2r1](https://github.com/VoronDesign/Voron-0)
    * 1:1 Parts:
      * Mini LCD Display Housing
      * Skirt Accents
-     * Frame & Top Hat (did repurpose some extrusions)
      * All hardware and some misc parts
   * Remixed / Repurposed:
+    * Frame & Top Hat (did repurpose some extrusions)
     * Skirt
     * 200mm 1515 Extrusion (Bed Mount)
     * 100mm 1515 Cut to 90mm (Bed Mount
