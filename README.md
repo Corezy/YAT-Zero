@@ -1,6 +1,5 @@
 
-<img width="1351" alt="2025-02-01_00-45-13" src="https://github.com/user-attachments/assets/68270d2b-c620-4cbf-8ce6-77da0667668e" />
-
+<img width="1300" alt="2025-02-08_20-21-21" src="https://github.com/user-attachments/assets/cc24ad42-26f9-499a-b880-a858b631ab16" />
 
 With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dprintersforants.com) available, I couldn't decide which one I wanted to use on my V0 because each had features I wanted, but none had all, so I set out to model yet another tri-zero build. thus the name YAT-Zero (YAT0).
 
@@ -9,13 +8,12 @@ This build contains a mix of parts from many different printers and some custom 
 NOTE: This is a work in progress and still needs some work.**  Know CAD and want to contribute? Contact me on the [Doomcube Discord](https://discord.gg/vXzRSne2).
 
 **To Do:**
-* Z Endstop solution or changes
 * Finalize Anthead Papilio Lite mod
-* Upload CAD
-* Upload Omitted STLs
+* Upload STLs
 * Documentation / Manual
 
-<img width="1024" alt="2025-01-31_17-04-26" src="https://github.com/user-attachments/assets/320450d2-47eb-4ad2-b2ba-ff06525c2a06" />
+<img width="1300" alt="2025-02-08_20-23-32" src="https://github.com/user-attachments/assets/eb1abf8e-33f8-4126-83be-7f2ee93137f3" />
+
 
 **Additional Parts:**
 * MGN9H (or MGN9C) Linear Rail Z1 Preload (200mm)
@@ -26,8 +24,10 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 **Optional Parts:**
 * Papilio Lite Parts (HGX v1.x geared version) for AntHead Papilio Lite Mod
 
-<img width="450" alt="2025-01-31_23-38-28" src="https://github.com/user-attachments/assets/075b3778-969e-45fc-8191-8ace0a400f72" />
-<img width="450" alt="2025-01-31_23-39-31" src="https://github.com/user-attachments/assets/20593b6c-135c-4901-998b-e6f2ad885e4d" />
+<img width="450" alt="2025-02-08_20-33-00" src="https://github.com/user-attachments/assets/07df7de7-fc4b-446a-8187-5ba423d48f86" />
+<img width="450" alt="2025-02-08_20-25-52" src="https://github.com/user-attachments/assets/61db331c-1dfa-4b1f-967e-903bdabc06a4" />
+<img width="450" alt="2025-02-08_20-41-46" src="https://github.com/user-attachments/assets/e3c7ae48-13ab-4c33-8971-c145b7de51a4" />
+<img width="450" alt="2025-02-08_20-34-37" src="https://github.com/user-attachments/assets/3383c945-c441-4a6a-ac7c-55bf05be79e8" />
 
 ## **Parts copied or remixed from:**
 * [Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
@@ -78,7 +78,7 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 * [HBO Tri-Zero - Pivot Bed Mount](https://github.com/harry-boe/tri-zero/tree/main/Mods/hbo/IGUS_03_Mount)
   * No direct or remixed parts were used, but was the inspiration for my bed mount
  
-<img width="1024" alt="2025-01-26_22-13-52" src="https://github.com/user-attachments/assets/e8c2a1a1-269e-4423-964e-8a71b15dfbdc" />
+<img width="1300" alt="2025-02-08_20-27-15" src="https://github.com/user-attachments/assets/15d66dba-fa88-4f3b-91c6-0e853ab63390" />
 
 
 
