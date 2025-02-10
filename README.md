@@ -1,5 +1,4 @@
-
-<img width="1300" alt="2025-02-08_20-21-21" src="https://github.com/user-attachments/assets/cc24ad42-26f9-499a-b880-a858b631ab16" />
+<img width="1146" alt="2025-02-09_21-10-41" src="https://github.com/user-attachments/assets/0c7a2148-d77f-4c51-8df8-0b062f48fb30" />
 
 With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dprintersforants.com) available, I couldn't decide which one I wanted to use on my V0 because each had features I wanted, but none had all, so I set out to model yet another tri-zero build. thus the name YAT-Zero (YAT0).
 
@@ -12,7 +11,7 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 * Upload STLs
 * Documentation / Manual
 
-<img width="1300" alt="2025-02-08_20-23-32" src="https://github.com/user-attachments/assets/eb1abf8e-33f8-4126-83be-7f2ee93137f3" />
+<img width="1048" alt="2025-02-08_20-23-32" src="https://github.com/user-attachments/assets/eb1abf8e-33f8-4126-83be-7f2ee93137f3" />
 
 
 **Additional Parts:**
