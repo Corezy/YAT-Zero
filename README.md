@@ -2,14 +2,29 @@
 
 With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dprintersforants.com) available, I couldn't decide which one I wanted to use on my V0 because each had features I wanted, but none had all, so I set out to model yet another tri-zero build. thus the name YAT-Zero (YAT0).
 
+**Design Goals:**
+* Belted triple Z-axis - MET
+* Three (3) Z Linear Rails - MET
+* Additional X & Y travel for optional probes and nozzle cleaners - MET (144mm X, 127mm Y, 120mm Z)
+* Room for electronics both in the rear and under the printer - MET
+* Choice of Nema 17 or Nema 14 pancake motor for Z drives - MET
+* Full travel while constraining the toolhead within the boundaries of the frame - MET
+* Boxed or unboxed configurations - IN PROGRESS
+* Use as many parts from a stock V0.x - MET
+
 This build contains a mix of parts from many different printers and some custom or remixed parts. Please see the long list of parts that either used 1:1, were repurposed, or were remixed. Thank you to all who created the originals.
 
 NOTE: This is a work in progress and still needs some work.**  Know CAD and want to contribute? Contact me on the [Doomcube Discord](https://discord.gg/vXzRSne2).
 
+Contributers and testers welcomed.
+
 **To Do:**
 * Finalize Anthead Papilio Lite mod
+* Finish Boxed design
+* Adjust runout sensor path to avoild Z stepper motor when using the optional rear Z pancake drive.
 * Upload STLs
 * Documentation / Manual
+* Print parts, build, test
 
 <img width="1048" alt="2025-02-08_20-23-32" src="https://github.com/user-attachments/assets/eb1abf8e-33f8-4126-83be-7f2ee93137f3" />
 
@@ -22,6 +37,7 @@ NOTE: This is a work in progress and still needs some work.**  Know CAD and want
 
 **Optional Parts:**
 * Papilio Lite Parts (HGX v1.x geared version) for AntHead Papilio Lite Mod
+* Nema 14 pancake motors & 50mm shaft for z-drives
 
 <img width="450" alt="2025-02-08_20-33-00" src="https://github.com/user-attachments/assets/07df7de7-fc4b-446a-8187-5ba423d48f86" />
 <img width="450" alt="2025-02-08_20-25-52" src="https://github.com/user-attachments/assets/61db331c-1dfa-4b1f-967e-903bdabc06a4" />
