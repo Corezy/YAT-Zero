@@ -9,6 +9,7 @@ With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dp
 * Room for electronics both in the rear and under the printer - MET
 * Choice of Nema 17 or Nema 14 pancake motor for Z drives - MET
 * Full travel while constraining the toolhead within the boundaries of the frame - MET
+* Integrated nozzle wiper and purge chute - IN PROGRESS
 * Boxed or unboxed configurations - IN PROGRESS
 * Use as many parts from a stock V0.x - MET
 
