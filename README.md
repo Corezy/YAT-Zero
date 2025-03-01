@@ -7,7 +7,7 @@ With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dp
 **Design Goals:**
 * Belted triple Z-axis - MET
 * Three (3) Z Linear Rails - MET
-* Additional X & Y travel for optional probes and nozzle cleaners - MET (144mm X, 123mm Y, 120mm Z)
+* Additional X & Y travel for optional probes and nozzle cleaners - MET (142mm X, 123mm Y, 120mm Z)
 * Room for electronics both in the rear and under the printer - MET
 * Choice of Nema 17 or Nema 14 pancake motor for Z drives - MET
 * Full travel while constraining the toolhead within the boundaries of the frame - MET
@@ -28,11 +28,11 @@ NOTE: This is a work in progress and still needs some work.**  Contributors and 
 
 <img width="1048" alt="2025-02-08_20-23-32" src="https://github.com/user-attachments/assets/eb1abf8e-33f8-4126-83be-7f2ee93137f3" />
 
-
 **Additional Parts:**
 * MGN9H (or MGN9C) Linear Rail Z1 Preload (200mm)
 * Additional control board or replace mainboard for additional Z stepper motors
 * IGUS KGLM 03 bearings (x3)
+* 16T pulleys & bearings for Z
 * Misc hardware (M3 screws & nuts, M2 screws and nuts, M3 heatset nuts)
 
 **Optional Parts:**
