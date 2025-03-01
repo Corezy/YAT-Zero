@@ -18,7 +18,7 @@ With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dp
 
 This build contains a mix of parts from many different printers and some custom or remixed parts. Please see the long list of parts that either used 1:1, were repurposed, or were remixed. Thank you to all who created the originals.
 
-NOTE: This is a work in progress and still needs some work.**  Contributers and testers welcomed. Know CAD and want to contribute? Contact me on the [Doomcube Discord](https://discord.gg/vXzRSne2).
+NOTE: This is a work in progress and still needs some work.**  Contributers and testers welcomed. Know CAD and want to contribute? Contact me on the [Doomcube Discord](https://discord.com/channels/825469421346226226/1345243298574372894) YAT-Zero channel.
 
 **To Do:**
 * Finalize Anthead Papilio Lite mod
