@@ -68,6 +68,7 @@ NOTE: This is a work in progress and still needs some work.**  Contributors and 
      * Mini LCD Display Housing
      * Skirt Accents
      * All hardware and some misc parts
+     * Top Hat
   * Remixed / Repurposed:
     * Frame & Top Hat (did repurpose some extrusions)
     * Skirt
