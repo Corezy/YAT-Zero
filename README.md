@@ -48,10 +48,11 @@ NOTE: This is a work in progress and still needs some work.**  Contributors and 
 
 * [Pandora's Box](https://github.com/MasturMynd/Pandoras_Box)
   * 1:1 Parts:
-    * Rear stepper motor mount
     * Panels & Panel clips
-    * Front idlers for boxed version
+    * Front idlers for the boxed version
     * X-Carriage mount
+    * X-Assembly
+    * Rear z-stepper motor mount (if opted to use a standard Nema 17)
   * Remixed:
     * AB Drive Assembly
     * Rear Z-bed mount
