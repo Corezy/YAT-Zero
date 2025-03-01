@@ -1,6 +1,6 @@
 # YAT-Zero - Yet Another Tri-Zero variant
 
-<img width="1091" alt="2025-02-28_22-30-21" src="https://github.com/user-attachments/assets/a89703e1-e266-45be-8d3d-062b264269d7" />
+<img width="1167" alt="2025-02-28_22-30-21" src="https://github.com/user-attachments/assets/9263fd56-4132-4c87-9433-5c763e6e6c58" />
 
 With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dprintersforants.com) available, I couldn't decide which one I wanted to use on my V0 because each had features I wanted, but none had all, so I set out to model yet another tri-zero build. thus the name YAT-Zero (YAT0).
 
