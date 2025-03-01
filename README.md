@@ -1,4 +1,6 @@
-<img width="1146" alt="2025-02-09_21-10-41" src="https://github.com/user-attachments/assets/0c7a2148-d77f-4c51-8df8-0b062f48fb30" />
+# YAT-Zero - Yet Another Tri-Zero variant
+
+<img width="1091" alt="2025-02-28_22-30-21" src="https://github.com/user-attachments/assets/a89703e1-e266-45be-8d3d-062b264269d7" />
 
 With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dprintersforants.com) available, I couldn't decide which one I wanted to use on my V0 because each had features I wanted, but none had all, so I set out to model yet another tri-zero build. thus the name YAT-Zero (YAT0).
 
@@ -11,7 +13,7 @@ With all the excellent triple-belted z-gantry [3D Printers for Ants](https://3dp
 * Full travel while constraining the toolhead within the boundaries of the frame - MET
 * Integrated nozzle wiper/cleaner without requiring a servo - IN PROGRESS
 * Integrated purge chute - IN PROGRESS
-* Boxed or unboxed configurations - IN PROGRESS
+* Boxed or unboxed configurations - MET
 * Use as many parts from a stock V0.x - MET
 
 This build contains a mix of parts from many different printers and some custom or remixed parts. Please see the long list of parts that either used 1:1, were repurposed, or were remixed. Thank you to all who created the originals.
