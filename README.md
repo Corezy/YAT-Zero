@@ -52,10 +52,13 @@ NOTE: This is a work in progress and still needs some work.**  Contributers and 
   * 1:1 Parts:
     * Rear stepper motor mount
     * Panels & Panel clips
+    * Front idlers for boxed version
+    * X-Carriage mount
   * Remixed:
     * AB Drive Assembly
     * Rear Z-bed mount
     * Rear Z-Gantry mounts
+    * X-Carriage mount for MGN9C
 * [Hex-Zero](https://github.com/Alexander-T-Moss/Hex-Zero)
   * Remixed:
     * Front Z Bed Mounts
