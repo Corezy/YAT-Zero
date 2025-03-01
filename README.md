@@ -51,6 +51,7 @@ NOTE: This is a work in progress and still needs some work.**  Contributers and 
 * [Pandora's Box](https://github.com/MasturMynd/Pandoras_Box)
   * 1:1 Parts:
     * Rear stepper motor mount
+    * Panels & Panel clips
   * Remixed:
     * AB Drive Assembly
     * Rear Z-bed mount
@@ -59,6 +60,7 @@ NOTE: This is a work in progress and still needs some work.**  Contributers and 
   * Remixed:
     * Front Z Bed Mounts
     * Front Z Motor Mounts
+    * Front Idlers
 * [Voron V0.2r1](https://github.com/VoronDesign/Voron-0)
    * 1:1 Parts:
      * Mini LCD Display Housing
@@ -76,6 +78,8 @@ NOTE: This is a work in progress and still needs some work.**  Contributers and 
   * Remixed:
     * Extruder Mount
     * Mainbody / Cowl
+    * Hotend Mount
+    * Leafcutter
 * [Papilio Lite Belt Extruder](https://github.com/kevinakasam/Papilio-Belt-Extruder)
   * 1:1 Parts:
     * Gears & Hardware
