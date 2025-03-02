@@ -39,6 +39,8 @@ NOTE: This is a work in progress and still needs some work.**  Contributors and 
 * Papilio Lite Parts (HGX v1.x geared version) for AntHead Papilio Lite Mod
 * Nema 14 pancake motors & 50mm shaft for z-drives
 
+![YAT-Zero-Z_Stepper_Optons](https://github.com/user-attachments/assets/65ee62a2-aa00-4a6a-b017-090e3c98d7a7)
+
 <img width="450" alt="2025-02-08_20-33-00" src="https://github.com/user-attachments/assets/07df7de7-fc4b-446a-8187-5ba423d48f86" />
 <img width="450" alt="2025-02-08_20-25-52" src="https://github.com/user-attachments/assets/61db331c-1dfa-4b1f-967e-903bdabc06a4" />
 <img width="450" alt="2025-02-08_20-41-46" src="https://github.com/user-attachments/assets/e3c7ae48-13ab-4c33-8971-c145b7de51a4" />
